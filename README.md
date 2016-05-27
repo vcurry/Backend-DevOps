@@ -57,4 +57,4 @@ http://23.22.11.75/
 
 Y también en el dominio creado para la clase :)
 
-veronicacordobes.es
+http://veronicacordobes.es/
